@@ -1,0 +1,67 @@
+BODY{
+
+  margin-top: 0 ;
+  text-align: center;
+}
+.first-container{
+  background-color: #EAF6F6;
+  padding: 50px;
+}
+h1{
+  color:#66BFBF;
+  display: inline;
+  font-size: 200%;
+}
+H2{
+  color: #66BFBF;
+  font-size: 200%;;
+
+}
+  h3{
+    color: #66BFBF;
+    font-size: 200%;
+}
+hr{
+  border: dotted;
+  border-style: none;
+  border-top-style: dotted;
+  width:30%;
+  border-width: 10px;
+  color: #66BFBF;
+}
+.sheri{
+  width: 300px;
+}
+.web-pic{
+  width: 300px;
+}
+.crick-pic{
+  width: 300px;
+}
+.profile-info{
+  margin: auto 100px auto 440px;
+  width: 30%;
+  padding: 20px;
+
+}
+.third-container{
+  margin: 100px auto 100px auto;
+}
+.footer-links{
+  background-color: #66BFBF;
+  padding: 20px 0;
+  margin: 0;
+}
+.web-skills{
+  margin: 100px auto 100px auto;
+width:30%;
+}
+.crick-skills{
+  margin: 100px auto 100px auto;
+width:30%;
+}
+a{
+  color: white;
+  margin: 0 20px;
+  text-decoration: none;
+}
